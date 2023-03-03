@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControle : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     //Установка компонента для твердых тел
     private Rigidbody2D rb;
